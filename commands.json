@@ -1,0 +1,12 @@
+{
+  "advarsel": "%advarsel (@spiller) Grund",
+  "report": "%report (@spiller) Grund",
+  "serverinfo": "%serverinfo",
+  "spillerinfo": "%spillerinfo",
+  "level": "%level",
+  "tempmute": "%tempmute (@spiller) tid - dette kræver permission!",
+  "addrole": "%addrole (@spiller) Grund - Dette kræver permission!",
+  "removerole": "%removerole (@spiller) Grund - Dette kræver permission!",
+  "ban": "%ban (@spiller) Grund - Dette kræver permission!",
+  "kick": "%kick (@spiller) Grund - Dette kræver permission!"
+}
